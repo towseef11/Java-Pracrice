@@ -1,0 +1,17 @@
+# Eclipse workspace metadata
+.metadata/
+.recommenders/
+.settings/
+
+# Server runtime config
+Servers/
+
+# Build output
+bin/
+target/
+build/
+*.class
+
+# OS files
+Thumbs.db
+.DS_Store
